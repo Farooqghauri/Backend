@@ -1,15 +1,15 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "my first backend project",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Farooq Ghuari",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.21.2"
   },
